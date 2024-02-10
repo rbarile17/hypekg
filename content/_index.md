@@ -33,7 +33,7 @@ sections:
       background:
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: graph.gif
           filters:
             brightness: 0.5
 ---
