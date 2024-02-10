@@ -12,18 +12,6 @@ sections:
     content:
       title: Build Your Landing Pages with Hugo Blox
       text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
-      primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
-      announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
