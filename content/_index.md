@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: HypeKG
+      text: Hybrid Prediction and Explanation with Knowledge Graphs
     design:
       spacing:
         padding: [0, 0, 0, 0]
