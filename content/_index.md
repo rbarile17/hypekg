@@ -19,9 +19,8 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        image:
+        video:
           # Add your image background to `assets/media/`.
-          filename: graph.gif
-          filters:
-            brightness: 0.5
+          filename: graph.mp4
+          brightness: 0.5
 ---
