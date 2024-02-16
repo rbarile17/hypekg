@@ -20,6 +20,25 @@
       <p class="mt-2 text-gray-500 dark:text-gray-400">
         {{- $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") -}}
       </p>
+      <div class="mt-4">
+        {{ with $item.Params.url_pdf }}
+          <span><a class="underline" href="{{ . }}">{{ i18n "btn_pdf" }}</a></span>
+        {{ end }}
+        {{ $resource := $item.Resources.GetMatch "cite.bib" }}
+        {{ with $resource }}
+        <span class="ml-4">
+          <a href="#" class="underline js-cite-modal" data-filename="{{ .RelPermalink }}">
+            {{ i18n "btn_cite" }}
+          </a>
+        </span>
+        {{ end }}
+        {{ with $item.Params.url_code }}
+          <span class="ml-4"><a class="underline" href="{{ . }}">{{ i18n "btn_code" }}</a></span>
+        {{ end }}
+        {{ with $item.Params.doi }}
+          <span class="ml-4 "><a class="underline" href="https://doi.org/{{ . }}">DOI</a></span>
+        {{ end }}
+      </div>
     </div>
   </div>
 </a>
