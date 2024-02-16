@@ -26,7 +26,11 @@
             {{ partial "functions/get_icon" (dict "name" . "attributes" `class="w-5 h-5 lg:w-6 lg:h-6"`)  }}
           </div>
           {{ end }}
-          <h3 class="mb-2 text-xl font-bold dark:text-white">{{ .name | $page.RenderString }}</h3>
+          <a href={{.link}} target="_blank" rel="noopener noreferrer" class="text-link">
+            <h3 class="mb-2 text-xl font-bold dark:text-white underline hover:no-underline transition-all duration-300">
+              {{ .name | $page.RenderString }}
+            </h3>
+          </a>          
           <p class="text-gray-500 dark:text-gray-400">{{ .description | $page.RenderString }}</p>
         </div>
       {{ end }}
