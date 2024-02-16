@@ -1,1 +1,8 @@
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+{{ $js := resources.Get "js/publication.js" | js.Build (dict "format" "esm" "minify" true) }}
+{{- if hugo.IsProduction -}}
+    {{- $js = $js | fingerprint "md5" -}}
+{{- end -}}
+{{ partial "citation" . }}
+<script src="{{ $js.RelPermalink }}" type="module"></script>
