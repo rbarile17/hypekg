@@ -68,7 +68,7 @@ sections:
           icon:
           description: |
             **Associated Investigator**  
-            Gabriele ..  
+            Gabriele Tolomei - gabriele.tolomei@uniroma1.it 
             **Operating Office**  
             Dipartimento di Informatica  
             Viale Regina Elena, 295 - Roma (RM), 00161
