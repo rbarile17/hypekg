@@ -26,8 +26,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*The Semantic Web - 21st International Conference, ESWC 2024, Hersonissos,
-  Crete, Greece, May 26-30, 2024, Proceedings, Part I*'
+publication: '*The Semantic Web - 21st International Conference, ESWC 2024, Hersonissos, Crete, Greece, May 26-30, 2024, Proceedings, Part I*'
 publication_short: ''
 
 doi: 10.1007/978-3-031-60626-7_10
@@ -43,8 +42,8 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://2024.eswc-conferences.org/wp-content/uploads/2024/04/146640175.pdf'
+url_code: 'https://github.com/rbarile17/kelpiePP'
 url_dataset: ''
 url_poster: ''
 url_project: ''
