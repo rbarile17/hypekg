@@ -61,7 +61,6 @@ footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   post: '/blog/:slug/'
-  authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
 disableAliases: true
@@ -76,7 +75,6 @@ timeout: 600000
 taxonomies:
   tag: tags
   category: categories
-  author: authors
 markup:
   _merge: deep
   highlight:
