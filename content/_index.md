@@ -59,7 +59,7 @@ sections:
           icon:
           description: |
             **Associated Investigator**  
-            Valeria Fiondi - fionda@mat.unical.it  
+            Valeria Fionda - valeria.fionda@unical.it 
             **Operating Office**  
             Dipartimento di Matematica e Informatica  
             Via Pietro Bucci - Cosenza (CS), 87100
@@ -68,7 +68,7 @@ sections:
           icon:
           description: |
             **Associated Investigator**  
-            Gabriele Tolomei - gabriele.tolomei@uniroma1.it 
+            Gabriele Tolomei -  tolomei@di.uniroma1.it
             **Operating Office**  
             Dipartimento di Informatica  
             Viale Regina Elena, 295 - Roma (RM), 00161
