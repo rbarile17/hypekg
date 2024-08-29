@@ -1,0 +1,14 @@
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $image1 := resources.Get "media/ue.png" }}
+{{ $image2 := resources.Get "media/mur.png" }}
+{{ $image3 := resources.Get "media/italiadomani.png" }}
+
+<div class="flex items-center justify-center">
+    <div class="flex items-center justify-between">
+        <img class="h-full py-8 px-8" src="{{ $image1.Permalink }}"></img>
+        <img class="h-full py-8 px-8" src="{{ $image2.Permalink }}"></img>
+        <img class="h-full py-8 px-8" src="{{ $image3.Permalink }}"></img>
+    </div>
+</div>
