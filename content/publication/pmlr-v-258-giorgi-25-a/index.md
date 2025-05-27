@@ -1,12 +1,11 @@
 ---
-title: Natural Language Counterfactual Explanations for Graphs Using Large Language
-  Models
+title: Natural Language Counterfactual Explanations for Graphs Using Large Language Models
 authors:
 - Flavio Giorgi
 - Cesare Campagnano
 - Fabrizio Silvestri
 - Gabriele Tolomei
-date: 2025-None-01
+date: 2025-01-01
 publishDate: '2025-05-27T21:34:10.526465Z'
 publication_types:
 - paper-conference
