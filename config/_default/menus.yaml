@@ -5,7 +5,10 @@
 main:
   - name: Publications
     url: /publication
-    weight: 10
+    weight: 20
   - name: About
     url: /about
     weight: 10
+  - name: Events
+    url: /events
+    weight: 30
