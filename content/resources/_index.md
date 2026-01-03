@@ -5,6 +5,8 @@
 ### [GRainsaCK](https://github.com/rbarile17/grainsack)
 *A Comprehensive Software Library for Benchmarking Explanations of Link Prediction Tasks on Knowledge Graphs*
 
+It grounds on the theoretical formulation of the LP-DIXIT method for evaluating explanations of LP tasks. GRainsaCK is developed in Python, adopts the functional paradigm, and reuses existing software components. GRainsaCK also gathers and makes easily available explanation ground-truth datasets. GRainsaCK streamlines benchmarking LP-X methods by formalizing the experiment workflow. It also features several alternative implementations for each task in the workflow, with the possibility of extending them as needed.
+
 ### [KG-SaF](https://github.com/ivandiliso/kg-saf)
 *Building Complete Datasets for Machine Learning and Reasoning on Knowledge Graphs*
 
@@ -23,3 +25,13 @@ Building on existing models such as TransE and TransR, it includes three semanti
 * TransOWL injecting constraints in the loss function, accounting for equivalent properties, equivalent classes, class hierarchy, inverse properties
 * TransROWL following the same formulation of TransOWL, but extending the TransR model
 * TransOWL-HRS extending TransROWL with relation hierarchies and relation clusters
+
+### [LTL4TKG] (https://ieeexplore.ieee.org/document/10386573)
+*Characterizing Evolutionary Trends in Temporal Knowledge Graphs with Linear Temporal Logic*
+
+It operationalizes the discovery of temporal logic patterns in TKGs. Its design is based on a template-driven approach, where predefined LTLf templates are automatically instantiated with data from the TKG.
+
+### [PREJUST4WOMAN] (https://lod-cloud.net/dataset/PREJUST4WOMAN_PROJECT)
+*A Knowledge Graph on Gender-Based Violence*
+
+The PREJUST4WOMEN Knowledge Graphs provide structured representations of legal cases related to violence against women, sourced from judgments of the European Court of Human Rights (ECHR). These KGs were developed using two complementary approaches: a bottom-up methodology and an LLM-based approach, leveraging advanced NLP techniques for KG construction. The KGs are designed to support predictive justice, legal reasoning, and enhanced accessibility to legal knowledge for humans and machines. This dataset offers a structured framework for documenting and analyzing cases of violence against women, including types of violence, the involved parties, and legal outcomes. It captures detailed information about the incidents, providing a comprehensive view of the legal ramifications and facilitating in-depth research and analysis in the field of gender-based violence. Published datasets include legal metadata, competency questions, and connections to external resources.
