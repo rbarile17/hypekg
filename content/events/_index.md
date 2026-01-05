@@ -1,17 +1,17 @@
 ---
-    title: 'Events'
+title: 'Events'
 
+design:
+# Default section spacing
+spacing: "6rem"
+
+sections:
+  - block: logo
     design:
-    # Default section spacing
-    spacing: "6rem"
-
-    sections:
-    - block: logo
-        design:
-        css_class: "bg-gray-100 dark:bg-gray-900"
-        spacing:
-            padding: [0, 0, 0, 0]
-            margin: [0, 0, 0, 0]
+      css_class: "bg-gray-100 dark:bg-gray-900"
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
 ---
 
 ## Workshops
