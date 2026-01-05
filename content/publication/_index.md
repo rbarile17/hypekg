@@ -14,7 +14,7 @@ sections:
         margin: [0, 0, 0, 0]
   - block: collection
     content:
-      title:
+      title: "Publications"
       text:
       filters:
         folders:
