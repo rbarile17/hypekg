@@ -3,7 +3,7 @@ title: 'Events'
 
 design:
 # Default section spacing
-spacing: "6rem"
+    spacing: "6rem"
 
 sections:
   - block: logo

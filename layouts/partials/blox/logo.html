@@ -1,20 +1,16 @@
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
 
-{{ $image1 := resources.Get "media/ue.png" }}
-{{ $image2 := resources.Get "media/mur.png" }}
-{{ $image3 := resources.Get "media/italiadomani.png" }}
-
 <div class="flex flex-wrap items-center justify-center">
-    <div class="flex flex-wrap items-center justify-between">
-        <div class="flex-1 sm:flex-none sm:w-1/3 py-8 px-8">
-            <img class="h-full w-full" src="{{ $image1.Permalink }}"></img>
-        </div>
-        <div class="flex-1 sm:flex-none sm:w-1/3 py-8 px-8">
-            <img class="h-full w-full" src="{{ $image2.Permalink }}"></img>
-        </div>
-        <div class="flex-1 sm:flex-none sm:w-1/3 py-8 px-8">
-            <img class="h-full w-full" src="{{ $image3.Permalink }}"></img>
-        </div>
+  <div class="flex flex-wrap items-center justify-between">
+    <div class="flex-1 sm:flex-none sm:w-1/3 py-8 px-8">
+      <img class="h-auto w-full object-contain" src="/media/ue.png" alt="UE">
     </div>
+    <div class="flex-1 sm:flex-none sm:w-1/3 py-8 px-8">
+      <img class="h-auto w-full object-contain" src="/media/mur.png" alt="MUR">
+    </div>
+    <div class="flex-1 sm:flex-none sm:w-1/3 py-8 px-8">
+      <img class="h-auto w-full object-contain" src="/media/italiadomani.png" alt="Italia Domani">
+    </div>
+  </div>
 </div>
