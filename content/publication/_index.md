@@ -16,9 +16,6 @@ sections:
     content:
       title: "Publications"
       text:
-      filters:
-        folders:
-          - publication
       count: 10
       pagination: true
     design:
