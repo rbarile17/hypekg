@@ -16,8 +16,7 @@ sections:
     content:
       title: "Publications"
       text:
-      count: 10
-      pagination: true
+      count: 0
     design:
       view: card
       show_date: false
