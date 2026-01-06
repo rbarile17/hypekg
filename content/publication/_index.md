@@ -19,8 +19,10 @@ sections:
       filters:
         folders:
           - publication
+      count: 10
       pagination: true
     design:
       view: card
       show_date: false
+      columns: 1
 ---
