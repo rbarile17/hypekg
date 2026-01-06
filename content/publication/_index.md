@@ -19,6 +19,7 @@ sections:
       filters:
         folders:
           - publication
+      pagination: true
     design:
       view: card
       show_date: false
