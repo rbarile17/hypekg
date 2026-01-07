@@ -5,7 +5,7 @@ authors:
 - Ivan Diliso
 - Nicola Fanizzi
 - Claudia d'Amato
-date: '2025-01-01'
+date: '2025-10-25'
 publishDate: '2026-01-03T14:58:19.721439Z'
 publication_types:
 - paper-conference

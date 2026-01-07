@@ -8,7 +8,7 @@ authors:
 - Donato Francioso
 - Fatima Zahra Amara
 - Nicola Fanizzi
-date: '2025-01-01'
+date: '2025-12-25'
 publishDate: '2026-01-03T14:58:19.731063Z'
 publication_types:
 - paper-conference

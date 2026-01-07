@@ -4,7 +4,7 @@ authors:
 - Andrea Bernini
 - Fabrizio Silvestri
 - Gabriele Tolomei
-date: '2024-01-01'
+date: '2024-08-24'
 publishDate: '2025-05-27T21:34:10.515828Z'
 publication_types:
 - paper-conference

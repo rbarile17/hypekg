@@ -4,7 +4,7 @@ title: Characterizing Evolutionary Trends in Temporal Knowledge Graphs with Line
 authors:
 - Valeria Fionda
 - Giuseppe Pirrò
-date: '2023-01-01'
+date: '2024-01-22'
 publishDate: '2024-10-09T16:41:50.798665Z'
 publication_types:
 - paper-conference

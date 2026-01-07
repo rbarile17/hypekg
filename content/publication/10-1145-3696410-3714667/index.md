@@ -5,7 +5,7 @@ authors:
 - Roberto Barile
 - Claudia d'Amato
 - Nicola Fanizzi
-date: '2025-01-01'
+date: '2025-04-22'
 publishDate: '2025-05-27T13:14:00.781032Z'
 publication_types:
 - paper-conference

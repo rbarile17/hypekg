@@ -5,7 +5,7 @@ authors:
 - Cesare Campagnano
 - Fabrizio Silvestri
 - Gabriele Tolomei
-date: 2025-01-01
+date: 2025-05-03
 publishDate: '2025-05-27T21:34:10.526465Z'
 publication_types:
 - paper-conference

@@ -7,7 +7,7 @@ authors:
 - Antonio Ielo
 - Francesco Ricca
 - Alessandra Russo
-date: '2024-01-01'
+date: '2025-01-01'
 publishDate: '2025-06-02T08:27:38.293874Z'
 publication_types:
 - paper-conference

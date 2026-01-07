@@ -5,7 +5,7 @@ authors:
 - Abdoulaye Diallo
 - Claudia d’Amato
 - Mouhamadou Thiam
-date: '2025-01-01'
+date: '2025-12-23'
 publishDate: '2026-01-03T14:48:09.499729Z'
 publication_types:
 - paper-conference
