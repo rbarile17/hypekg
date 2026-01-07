@@ -11,4 +11,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the ACM on Web Conference 2025*'
 doi: 10.1145/3696410.3714667
+url_pdf: https://dl.acm.org/doi/epdf/10.1145/3696410.3714667
 ---
