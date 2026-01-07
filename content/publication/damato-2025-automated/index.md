@@ -15,4 +15,5 @@ publication_types:
 publication: '*The 38th International Conference on Legal Knowledge and Information
   Systems (JURIX 2025)*'
 doi: 10.3233/FAIA251575
+url_pdf: ./FAIA-416-FAIA251575.pdf
 ---
