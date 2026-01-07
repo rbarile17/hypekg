@@ -9,4 +9,5 @@ publishDate: '2025-06-02T08:27:38.284859Z'
 publication_types:
 - paper-conference
 publication: '*LPNMR*'
+doi: https://doi.org/10.1007/978-3-031-74209-5_28
 ---

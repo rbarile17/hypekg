@@ -1,6 +1,5 @@
 ---
-title: A Semi-automatic Approach for Validating Ontology Alignments Based on LLMs
-  and KGs
+title: A Semi-automatic Approach for Validating Ontology Alignments Based on LLMs and KGs
 authors:
 - Abdoulaye Diallo
 - Claudia d’Amato
@@ -10,4 +9,6 @@ publishDate: '2026-01-03T14:48:09.499729Z'
 publication_types:
 - paper-conference
 publication: '*International Knowledge Graph and Semantic Web Conference*'
+doi: https://doi.org/10.1007/978-3-032-13109-6_6
+
 ---

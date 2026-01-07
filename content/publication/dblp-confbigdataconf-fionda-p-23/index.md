@@ -1,6 +1,5 @@
 ---
-title: Characterizing Evolutionary Trends in Temporal Knowledge Graphs with Linear
-  Temporal Logic
+title: Characterizing Evolutionary Trends in Temporal Knowledge Graphs with Linear Temporal Logic
 authors:
 - Valeria Fionda
 - Giuseppe Pirrò
@@ -10,5 +9,4 @@ publication_types:
 - paper-conference
 publication: '*IEEE Big Data*'
 doi: 10.1109/BigData59044.2023.10386573
-url_pdf: javascript:void()
 ---

@@ -12,4 +12,5 @@ publishDate: '2025-06-02T08:27:38.293874Z'
 publication_types:
 - paper-conference
 publication: '*GreenAI@AI*IA*'
+url_pdf: https://ceur-ws.org/Vol-3934/paper6.pdf
 ---
